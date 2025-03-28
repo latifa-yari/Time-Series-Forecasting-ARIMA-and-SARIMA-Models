@@ -54,7 +54,7 @@ Model Steps:
 - Both models support planning for future energy consumption
 
 ## Files Included
-- ARIMA_Updated.ipynb – Jupyter Notebook with full analysis
+- ARIMA_SARIMA.ipynb – Jupyter Notebook with full analysis
 - Elec_sales.xlsx – Raw dataset
 
 ## Author
