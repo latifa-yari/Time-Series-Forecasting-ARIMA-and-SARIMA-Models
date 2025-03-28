@@ -32,9 +32,6 @@ Cons:
 - Cannot capture seasonal patterns
 - Parameter selection can be complex
 
-Mathematical Form:
-y_t = c + Σ(ϕ_i * y_{t-i}) + Σ(θ_j * ε_{t-j}) + ε_t
-
 Model Steps:
 - Conducted ADF test
 - Used ACF and PACF plots to estimate parameters
