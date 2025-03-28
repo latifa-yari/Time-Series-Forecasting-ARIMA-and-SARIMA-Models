@@ -57,4 +57,5 @@ Model Steps:
 - ARIMA_Updated.ipynb – Jupyter Notebook with full analysis
 - Elec_sales.xlsx – Raw dataset
 
-
+## Author
+Latifa Yari – Data Analyst 
