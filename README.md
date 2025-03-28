@@ -56,23 +56,5 @@ Model Steps:
 ## Files Included
 - ARIMA_Updated.ipynb – Jupyter Notebook with full analysis
 - Elec_sales.xlsx – Raw dataset
-- requirements.txt – Python dependencies
 
-## How to Run
-1. Clone the repository  
-```bash
-git clone https://github.com/LatifaYari/electricity-demand-forecasting.git
-cd electricity-demand-forecasting
-```
-2. Install dependencies  
-```bash
-pip install -r requirements.txt
-```
-3. Open the notebook  
-```bash
-jupyter lab
-```
 
-## Contact
-GitHub: https://github.com/LatifaYari  
-LinkedIn: https://linkedin.com/in/LatifaYari
